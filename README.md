@@ -35,7 +35,7 @@ Você pode visualizar o layout do projeto Crachá virtual DoWhile através [dess
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 Faça parte da comunidade da Rocketseat: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
