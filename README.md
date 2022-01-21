@@ -27,7 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Link Instagram é baseado no projeto Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021. Acesse o projeto link Instagram atravéz [desse link](https://ibanez-juan.github.io/link-instagram-v2.0/).
+O Projeto Link Instagram é baseado no projeto Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021. 
+Acesse o projeto link Instagram atravéz [desse link](https://ibanez-juan.github.io/link-instagram-v2.0/).
 
 ## 🔖 Layout
 
