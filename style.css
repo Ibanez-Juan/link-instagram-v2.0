@@ -81,7 +81,7 @@ p {
   padding-left: 0.5rem;
 }
 .portfolio p {
-  align-items: center;
+  align-items: rigth;
   margin-top: 0;
 }
 
